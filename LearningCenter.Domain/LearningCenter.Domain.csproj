@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\LearningCenter.Infrastructure\LearningCenter.Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>

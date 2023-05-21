@@ -1,5 +1,6 @@
 ﻿namespace LearningCenter.Domain;
 
-public class Class1
+public interface IUserDomain
 {
+    
 }
