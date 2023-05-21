@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5g43pFZCQ5t47V0gdXT598LuT1yYiKn/4si3H3DNsuaIOeUEAam4W8RJ7zbTi44asfNkEoHC2PyEeNnhA9zc6Q==",
+  "success": true,
+  "projectFilePath": "C:\\upc\\2023-1\\SI730 - SW53 - Aplicaciones Web\\Sem 9\\LearningCenterApplication\\LearningCenter.API\\LearningCenter.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
